@@ -9,7 +9,7 @@ use Area\Shapes\Rectangle;
 use Area\Shapes\Square;
 
 
-echo Circle::area(4);
+echo Circle::area(5);
 echo "\n";
 echo Rectangle::area(4,12);
 echo "\n";
