@@ -1,0 +1,22 @@
+{
+    "name": "cristhianpisfil/mentoria-demo-01",
+    "description": "Demo Mentoria aplicacion con Composer",
+    "type": "project",
+    "version": "1.0.0",
+    "autoload": {
+        "psr-4": {
+            "Cristhianpisfil\\MentoriaDemo01\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kremin12",
+            "email": "cdph12vilotex@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=8.2",
+        "shape/test-package": "^1.0"
+    }
+}
